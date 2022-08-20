@@ -8,7 +8,7 @@ public class DataFromDB {
     // 模拟从数据库中查找需要通知的女友信息
     public static Map<String, DateFromOpenId> getDataFromDB() {
         Map<String, DateFromOpenId> data = new HashMap<>();
-        DateFromOpenId oqi0j5_vVGJhZAHJUN5ArH8hG0IQ = DateFromOpenId.builder().openId("oqi0j5_vVGJhZAHJUN5ArH8hG0IQ")
+        DateFromOpenId oqi0j5_vVGJhZAHJUN5ArH8hG0IQ = DateFromOpenId.builder().openId("oIXnO6l7KSI_yc-hmXikTN5kASCI")
                 .birthday("2023-07-21")
                 .loveDate("2021-07-21")
                 .city("101010100")
