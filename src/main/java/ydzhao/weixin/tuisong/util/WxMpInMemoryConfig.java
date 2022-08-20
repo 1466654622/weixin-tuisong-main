@@ -8,8 +8,8 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class WxMpInMemoryConfig {
-    private static String appId = "wxff82400bbf9810d4";
-    private static String secret = "a8c48151baf34212d2eed624c94e885d";
+    private static String appId = "wx5bd15a717be574b2";
+    private static String secret = "c27976e32a4c75e0ae80b28341c63c0a";
 
     @Bean("WxMpService")
     public WxMpService getWxMpService() {
